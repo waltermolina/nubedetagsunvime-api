@@ -1,18 +1,14 @@
-# Slim Framework 3 Skeleton Application
+![header](https://raw.githubusercontent.com/waltermolina/nubedetagsunvime/master/header.jpg)
+# NubeDeTags API
 
-Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
+En este repositorio están almacenados los archivos de la web api  desarrollada para el espacio de formación "Innovación en Dispositivos de Conversación" de la Licenciatura en Diseño de Comunicación de la Escuela de Gestión de Empresas y Economía de la Universidad Nacional de Villa Mercedes.
 
-This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
+Esta API es consumida por la **[web app](http://sd-1536123-h00004.ferozo.net/)** utilizada por los docentes
 
-## Install the Application
+**Nota:** Este experimento 🧪 está en curso y la app puede continuar creciendo.
 
-Run this command from the directory in which you want to install your new Slim Framework application.
-
-    php composer.phar create-project slim/slim-skeleton [my-app-name]
-
-Replace `[my-app-name]` with the desired directory name for your new application. You'll want to:
-
-* Point your virtual host document root to your new application's `public/` directory.
-* Ensure `logs/` is web writeable.
-
-That's it! Now go build something cool.
+## Detalles técnicos:
+Proyecto desarrollada usando PHP con Slim Framework 3 + Skeleton App y MySQL.
+Esta API se conecta con la app desarrollada con VUE JS almacenada en [este repositorio](https://github.com/waltermolina/nubedetagsunvime). 
+__________
+![with love by tachuso](https://raw.githubusercontent.com/waltermolina/nubedetagsunvime/master/tachusoVioleta50.png)
